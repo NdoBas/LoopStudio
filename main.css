@@ -145,6 +145,9 @@ p {
 }
 
 span {
-  padding-left: 490px;
+  padding-left: 50%;
   color: gray;
+}
+.footer {
+  padding-left: 55%;
 }
